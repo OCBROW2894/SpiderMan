@@ -1,0 +1,22 @@
+
+ /* Earthy & Muted Tones */
+:root {
+    
+    --primary: #d4a373;       /* A warm, earthy peach */
+    --onprimary: #2d2d2d;     /* Dark text to ensure legibility */
+    --secondary: #8e8d8a;     /* A soft, subdued gray for balance */
+    --onsecondary: #ffffff;
+    --tertiary: #b5a895;      /* Muted brown for subtle sophistication */
+    --ontertiary: #2d2d2d;
+    --page: #fdfbf7;          /* An off-white with a hint of warmth */
+    --onpage: #3d3d3d;
+    --detail: #a66f3d;        /* A rich copper detail to highlight elements */
+    --detail2: #7c6c64;       /* Soft taupe for complementary accents */
+  
+    /* Font Pairings */
+    --body-font: 1rem "Georgia", serif;
+    --header-font: lighter 3rem "Playfair Display", serif;
+    --title-font: lighter 2rem "Playfair Display", serif;
+    --quote-font: lighter 1.5rem "Great Vibes", cursive;
+  }
+  
