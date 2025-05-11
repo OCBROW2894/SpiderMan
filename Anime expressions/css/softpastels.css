@@ -1,0 +1,23 @@
+
+/* Soft Pastels & Gentle Contrasts */
+
+:root {
+    
+    --primary: #ff8c94;       /* Light Coral Pink for a warm primary tone */
+    --onprimary: #1b1b1b;     /* Dark text for readability */
+    --secondary: #fefbd8;     /* Pale buttery yellow for a soft accent */
+    --onsecondary: #1b1b1b;
+    --tertiary: #c1c8e4;      /* Soft lavender blue for creative flair */
+    --ontertiary: #1b1b1b;
+    --page: #ffffff;          /* Crisp white background for clarity */
+    --onpage: #333333;
+    --detail: #a1cfff;        /* Light blue detail for subtle interest */
+    --detail2: #ffcccb;       /* Delicate pink detail for warmth */
+  
+    /* Font Pairings */
+    --body-font: 1rem "Lora", serif;
+    --header-font: lighter 3rem "Montserrat", sans-serif;
+    --title-font: lighter 2rem "Montserrat", sans-serif;
+    --quote-font: lighter 1.5rem "Pacifico", cursive;
+  }
+  
