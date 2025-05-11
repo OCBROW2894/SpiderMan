@@ -7,7 +7,7 @@ The <strong>three</strong> most common categories of font are:
 - Web safe fonts
 - Fallback fonts
 <br>
-<p><strong><i>Library fonts</i></strong> are typically imported from a third-party library such as <u>Google Fonts</u>. Companies sometimes pay a fee to use a font as part of their website branding.</p>
+<p><strong><i>Library fonts</i></strong> are typically imported from a third-party library such as <b><i>Google Fonts</i></b>. Companies sometimes pay a fee to use a font as part of their website branding.</p>
 
 <p><strong><i>Web safe fonts</i></strong> are standard fonts that should be available through any web browser. However, you can never be 100% sure that this is the case. Here is a list of web safe fonts:</p>
 
