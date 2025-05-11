@@ -1,0 +1,22 @@
+
+ /* Deep Base with Bold Accents */
+:root {
+    
+    --primary: #1e3d59;       /* A deep blue for a strong foundation */
+    --onprimary: #ffffff;     /* White text for high contrast */
+    --secondary: #f5a623;     /* A vivid amber to command attention */
+    --onsecondary: #ffffff;
+    --tertiary: #4a4e69;      /* Muted violet-blue for a balanced accent */
+    --ontertiary: #ffffff;
+    --page: #fefefe;          /* Nearly white background for a clean canvas */
+    --onpage: #2f2f2f;
+    --detail: #e63946;        /* Energetic red detail for pop and emphasis */
+    --detail2: #a8dadc;       /* A soft light blue to complement the intensity */
+  
+    /* Font Pairings */
+    --body-font: 1rem "Roboto", sans-serif;
+    --header-font: lighter 3rem "Oswald", sans-serif;
+    --title-font: lighter 2rem "Oswald", sans-serif;
+    --quote-font: lighter 1.5rem "Abril Fatface", cursive;
+  }
+  
